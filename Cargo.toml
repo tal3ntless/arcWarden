@@ -4,8 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-serenity = { version = "0.12", features = ["client", "gateway", "rustls_backend", "framework", "standard_framework"] }
-tokio = { version = "1", features = ["full"] }
+serenity = { version = "0.12", features = ["client", "gateway", "model", "rustls_backend", "framework"] }
+tokio = { version = "1", features = ["macros", "rt-multi-thread", "time"] }
 dotenvy = "0.15"
 rand = "0.8"
 tokio-postgres = "0.7"
