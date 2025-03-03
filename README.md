@@ -7,7 +7,7 @@ This project is an opensource discord bot in Rust, using Serenity and Songbird t
 [***Join the official discord***](https://discord.gg/ygfqd8Mtps)
 
 ## 📋 Features
-✅ **Play music** via `/play <url>` 
+✅ **Play music** via `/play <url>`   
 ✅ **Join to a voice channel** with `/join'`  
 ✅ **Disconnect from the channel** with `/quit`  
 ✅ **Dice roll** (`/roll`, 1 to 6)  
