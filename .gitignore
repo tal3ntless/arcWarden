@@ -2,4 +2,8 @@
 
 /target
 Cargo.lock
+src/contracts
+foundry.toml
+config.json
 .idea/
+/data/
